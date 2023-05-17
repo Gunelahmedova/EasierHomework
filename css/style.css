@@ -45,11 +45,11 @@ p {
   text-align: center;
 }
 .contact {display: block;
-  width: 40%;
+  width: 34.5%;
   height: 267px;
   background-color: #ebebeb;
   color: #777;
-  float: right;
+  float: left;
   margin: 10px ;
   padding: 10px ;
 }
